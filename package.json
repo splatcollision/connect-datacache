@@ -1,0 +1,11 @@
+{
+  "name": "connect-datacache",
+  "version": "0.0.1",
+  "description": "IBM Data Cache session store for Connect",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kevin Haggerty <kevin@splatcollision.com> (http://splatcollision.com/)",
+  "license": "TBD - IBM Open Source if that exists"
+}
