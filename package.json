@@ -3,6 +3,10 @@
   "version": "0.0.1",
   "description": "IBM Data Cache session store for Connect",
   "main": "index.js",
+  "repository": {
+  	"type": "git",
+  	"url": "git@github.rtp.raleigh.ibm.com:kehagger-us/connect-datacache"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
